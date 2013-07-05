@@ -15,7 +15,6 @@ module align(C, shamt, CAligned,  sticky);
   assign CAligned = {1'b0,C,{(2*(SIG_WIDTH+1)+2+2+2){1'b0}}} >> shamt; //1, 24, 54
   
   assign sticky = (shamt< 2*(SIG_WIDTH+1) + 7 /*55*/)?1'b0:T[shamt- (2*(SIG_WIDTH+1))];
-  //assign guard = (shamt< 2*(SIG_WIDTH+1) + 3 /*51*/)?1'b0:C[shamt- (2*(SIG_WIDTH+1))+2];
-  //assign round = (shamt< 2*(SIG_WIDTH+1) + 4 /*52*/)?1'b0:C[shamt- (2*(SIG_WIDTH+1))+1];
+
   
 endmodule

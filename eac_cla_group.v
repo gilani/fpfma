@@ -1,5 +1,6 @@
 module eac_cla_group(a, b, GG, GP, s, s_plus_one);
   //End Around Carry adder -- CLA group
+  
   `include "parameters.v"
   input [CLA_GRP_WIDTH-1:0] a, b;
   output [CLA_GRP_WIDTH-1:0] s, s_plus_one;
@@ -11,7 +12,7 @@ module eac_cla_group(a, b, GG, GP, s, s_plus_one);
   wire cin;
   assign s = sum;
   assign s_plus_one = sum1;
-  assign GG = carry_in[CLA_GRP_WIDTH];////G[CLA_GRP_WIDTH-1];
+  assign GG = carry_in[CLA_GRP_WIDTH];
   assign GP = &P;
   
   integer i;

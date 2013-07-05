@@ -20,7 +20,7 @@ module exponentComparison(aExp, bExp, cExp, shamt, cIsSubnormal, res_exp, cExpIs
   
   assign res_exp= ( cExpIsSmall )?product_exp-BIAS:cExp;//Result exponent
   
- // assign lza_cBig = (cExpIsSmall==0)?shamt:product_exp - BIAS - cExp;//S
+
   
   
   
