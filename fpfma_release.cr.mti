@@ -1,48 +1,55 @@
-C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v}
+C:/Users/gilani/Documents/GitHub/fpfma/exponentComparison.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\exponentComparison.v}
+Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
+-- Compiling module exponentComparison
+
+Top level modules:
+	exponentComparison
+
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module compressor_3_2_group
 
 Top level modules:
 	compressor_3_2_group
 
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/parameters.v {0 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/parameters.v
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/parameters.v {0 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\parameters.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
-** Error: C:/Users/gilani/Documents/GitHub/fpfma/parameters.v(2): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+** Error: C:\Users\gilani\Documents\GitHub\fpfma\parameters.v(2): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
 
-** Error: C:/Users/gilani/Documents/GitHub/fpfma/parameters.v(12): (vlog-2730) Undefined variable: 'N_CLA_GROUPS'.
+** Error: C:\Users\gilani\Documents\GitHub\fpfma\parameters.v(12): (vlog-2730) Undefined variable: 'N_CLA_GROUPS'.
 
-** Error: C:/Users/gilani/Documents/GitHub/fpfma/parameters.v(12): 'N_CLA_GROUPS' already declared in this scope (work).
-** Error: C:/Users/gilani/Documents/GitHub/fpfma/parameters.v(12): Verilog Compiler exiting
+** Error: C:\Users\gilani\Documents\GitHub\fpfma\parameters.v(12): 'N_CLA_GROUPS' already declared in this scope (work).
+** Error: C:\Users\gilani\Documents\GitHub\fpfma\parameters.v(12): Verilog Compiler exiting
 
-} {3.0 4.0 5.0 6.0 7.0 9.0} {}} C:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v
-Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
--- Compiling module t_fpfma
-
-Top level modules:
-	t_fpfma
-
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v
+} {3.0 4.0 5.0 6.0 7.0 9.0} {}} C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\fpSpecialCases.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module fpSpecialCases
 
 Top level modules:
 	fpSpecialCases
 
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\DW02_multp.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module DW02_multp
 
 Top level modules:
 	DW02_multp
 
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module compressor_3_2
 
 Top level modules:
 	compressor_3_2
 
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/fpfma.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/fpfma.v
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/normalize.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\normalize.v}
+Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
+-- Compiling module normalizeAndExpUpdate
+
+Top level modules:
+	normalizeAndExpUpdate
+
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/fpfma.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module fpfma
 
@@ -70,18 +77,18 @@ Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 
 Top level modules:
 	eac_cla_group
 
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/lza.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/lza.v
-Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
--- Compiling module lza
-
-Top level modules:
-	lza
-
-} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v {1 {vlog -work work C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_adder.v}
 Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
 -- Compiling module eac_cla_adder
 
 Top level modules:
 	eac_cla_adder
+
+} {} {}} C:/Users/gilani/Documents/GitHub/fpfma/lza.v {1 {vlog -work work {C:\Users\gilani\Documents\GitHub\fpfma\lza.v}
+Model Technology ModelSim PE Student Edition vlog 10.2b Compiler 2013.05 May 17 2013
+-- Compiling module lza
+
+Top level modules:
+	lza
 
 } {} {}}
