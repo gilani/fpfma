@@ -68,10 +68,7 @@ module fpfma(A, B, C, rnd, result);
    //Assign 50-bit sum and carry vectors for significand multiplier
    assign sum = Sbig; 
    assign carry = Cbig; 
-   
-   wire [2*SIG_WIDTH+4:0] of_pro_prod = sum + (carry);
-  
-  
+    
   
   //****************************************************************************************************
   //************************CSA to combine product (sum, product and aligned C)
