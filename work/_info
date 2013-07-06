@@ -8,40 +8,40 @@ Z0 dC:/Users/gilani/Documents/verilog projects/fpfma_release
 !i10e 25
 !i10f 100
 valign
-Z1 !s110 1373094128
-Z2 !s100 HhHSFS8K<H9U4@N=DbOC>3
-Z3 In3Odh3=55VQ2j:_5L]el80
-Z4 V`JN@9S9cnhjKRR_L]QIcM3
-Z5 dC:/Users/gilani/Documents/GitHub/fpfma
-Z6 w1373045939
-Z7 8C:\Users\gilani\Documents\GitHub\fpfma\align.v
-Z8 FC:\Users\gilani\Documents\GitHub\fpfma\align.v
-Z9 Fparameters.v
+Z1 !s100 HhHSFS8K<H9U4@N=DbOC>3
+Z2 IIW>>Z<[9663>7KYaaIlVm0
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dC:/Users/gilani/Documents/GitHub/fpfma
+Z5 w1373045939
+Z6 8C:/Users/gilani/Documents/GitHub/fpfma/align.v
+Z7 FC:/Users/gilani/Documents/GitHub/fpfma/align.v
+Z8 Fparameters.v
 L0 1
-Z10 OP;L;10.2b;57
+Z9 OP;L;10.2b;57
 r1
 31
-Z11 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\align.v|
-Z12 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
-Z13 !s108 1373094128.416000
-Z14 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\align.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z11 !s110 1373110194
+Z12 !s108 1373110193.879000
+Z13 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/align.v|
+Z14 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/align.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcla_adder
 Z15 !s110 1373042582
 Z16 IgHS3a4V77A`;;glDP2XfC2
+R3
 R4
-R5
 Z17 w1372925561
 Z18 8C:/Users/gilani/Documents/GitHub/fpfma/cla_adder.v
 Z19 FC:/Users/gilani/Documents/GitHub/fpfma/cla_adder.v
-R9
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
+R10
 Z20 !s100 hKB^izmhJ8?8SJ]=;PK4n1
 Z21 !s108 1373042582.836000
 Z22 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/cla_adder.v|
@@ -51,17 +51,17 @@ Z23 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/c
 !s101 -O0
 vcla_group
 Z24 I48^eZiT[43_2N6BWNG6I[2
+R3
 R4
-R5
 R17
 Z25 8C:/Users/gilani/Documents/GitHub/fpfma/cla_group.v
 Z26 FC:/Users/gilani/Documents/GitHub/fpfma/cla_group.v
-R9
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
+R10
 Z27 !s110 1373042583
 Z28 !s100 b4jCg0=F<[c8Jne?iHjMM2
 Z29 !s108 1373042583.218000
@@ -71,487 +71,487 @@ Z31 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/c
 !s85 0
 !s101 -O0
 vcompressor_3_2
-R1
+R11
 Z32 !s100 lC@Uj4a[01_YSIz_=M`TH0
-Z33 I?`_:LVVdWIPj8:nQODHX22
+Z33 I1;c_UBgF0z<7POT_K0Emb0
+R3
 R4
-R5
 Z34 w1371477560
-Z35 8C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2.v
-Z36 FC:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2.v
+Z35 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v
+Z36 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v
 L0 1
-R10
+R9
 r1
 31
-Z37 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2.v|
-R12
-Z38 !s108 1373094128.763000
-Z39 !s107 C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2.v|
+R10
+Z37 !s108 1373110194.387000
+Z38 !s107 C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcompressor_3_2_group
+R11
 Z40 !s100 6@TGAlcl:Ehj:E:PYUAT42
-Z41 IDf?QEz4Q[V5RjMGTWJ>DH1
+Z41 IlI^BSOLQ1f^^TNYMaf9hQ1
+R3
 R4
 R5
-R6
-Z42 8C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v
-Z43 FC:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v
-R9
+Z42 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v
+Z43 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v
+R8
 L0 1
-R10
+R9
 r1
 31
-Z44 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v|
-R12
-Z45 !s110 1373094129
-Z46 !s108 1373094129.260000
-Z47 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\compressor_3_2_group.v|
+R10
+Z44 !s108 1373110194.704000
+Z45 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v|
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_3_2_group.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcompressor_4_2
-Z48 !s110 1373042584
-Z49 I34AAk77KS^[1?HofFEJN<0
+Z47 !s110 1373042584
+Z48 I34AAk77KS^[1?HofFEJN<0
+R3
 R4
-R5
 R17
-Z50 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v
-Z51 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v
-R9
+Z49 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v
+Z50 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v
+R8
 L0 10
-R10
+R9
 r1
 31
-Z52 !s108 1373042584.624000
-Z53 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v|
-Z54 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v|
-R12
-Z55 !s100 2^PUIR>6e_:`l<V6em5H21
+Z51 !s108 1373042584.624000
+Z52 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v|
+Z53 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2.v|
+R10
+Z54 !s100 2^PUIR>6e_:`l<V6em5H21
 !i10b 1
 !s85 0
 !s101 -O0
 vcompressor_4_2_group
-Z56 IT[:>mam`YIO[P:Y@hPKXL1
+Z55 IT[:>mam`YIO[P:Y@hPKXL1
+R3
 R4
-R5
 R17
-Z57 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v
-Z58 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v
-R9
+Z56 8C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v
+Z57 FC:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
-Z59 !s110 1373042585
-Z60 !s100 [EDSoS0]Qn=3@C;`K7_UP2
-Z61 !s108 1373042585.372000
-Z62 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v|
-Z63 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v|
+R10
+Z58 !s110 1373042585
+Z59 !s100 [EDSoS0]Qn=3@C;`K7_UP2
+Z60 !s108 1373042585.372000
+Z61 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v|
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/compressor_4_2_group.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vDW02_multp
-R45
-Z64 !s100 FQQ`lz0ggB]JagoPJmhEU2
-Z65 I`E4kzW6=8U[I=n5iiP9DU0
+Z63 !s100 FQQ`lz0ggB]JagoPJmhEU2
+Z64 ITRCQ7R5PJ6RE]g]9D^h]_2
+R3
 R4
-R5
-Z66 w1294866419
-Z67 8C:\Users\gilani\Documents\GitHub\fpfma\DW02_multp.v
-Z68 FC:\Users\gilani\Documents\GitHub\fpfma\DW02_multp.v
+Z65 w1294866419
+Z66 8C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v
+Z67 FC:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v
 L0 43
-R10
+R9
 r1
 31
-Z69 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\DW02_multp.v|
-R12
-Z70 n@d@w02_multp
-Z71 !s108 1373094129.748000
-Z72 !s107 C:\Users\gilani\Documents\GitHub\fpfma\DW02_multp.v|
+R10
+Z68 n@d@w02_multp
+Z69 !s110 1373110195
+Z70 !s108 1373110194.997000
+Z71 !s107 C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v|
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/DW02_multp.v|
 !i10b 1
 !s85 0
 !s101 -O0
 veac_cla_adder
+R69
 Z73 !s100 GGIMo[KMbCSjU[iP3[ddz2
-Z74 IJ`MALk:R`NI6hfZ9Xa95V1
+Z74 IZ0E<NmL160V@AV:1lNmS42
+R3
 R4
 R5
-R6
-Z75 8C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_adder.v
-Z76 FC:\Users\gilani\Documents\GitHub\fpfma\eac_cla_adder.v
-R9
+Z75 8C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v
+Z76 FC:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v
+R8
 L0 2
-R10
+R9
 r1
 31
-Z77 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_adder.v|
-R12
-Z78 !s110 1373094130
-Z79 !s108 1373094130.187000
-Z80 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_adder.v|
+R10
+Z77 !s108 1373110195.307000
+Z78 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 veac_cla_group
-R78
-Z81 !s100 nb9?oNXEHh?U70V9mMNio0
-Z82 IZeHcR3jZ7mE2G2@L`=8Zl2
+Z80 !s100 nb9?oNXEHh?U70V9mMNio0
+Z81 ImYHB21;7>M[D3R4K_KeAa2
+R3
 R4
 R5
-R6
-Z83 8C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_group.v
-Z84 FC:\Users\gilani\Documents\GitHub\fpfma\eac_cla_group.v
-R9
+Z82 8C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_group.v
+Z83 FC:/Users/gilani/Documents/GitHub/fpfma/eac_cla_group.v
+R8
 L0 1
-R10
+R9
 r1
 31
-Z85 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_group.v|
-R12
-Z86 !s108 1373094130.500000
-Z87 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\eac_cla_group.v|
+R10
+Z84 !s110 1373110196
+Z85 !s108 1373110195.775000
+Z86 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_group.v|
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/eac_cla_group.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vexponentComparison
+R84
 Z88 !s100 jYYfQX]?WOYn9^3e^efAX2
-Z89 IIDn00N<;Z]]gnZiMh224<3
+Z89 I_Q^Q2S]JKeb[<OE?VjfDM0
+R3
 R4
 R5
-R6
-Z90 8C:\Users\gilani\Documents\GitHub\fpfma\exponentComparison.v
-Z91 FC:\Users\gilani\Documents\GitHub\fpfma\exponentComparison.v
-R9
+Z90 8C:/Users/gilani/Documents/GitHub/fpfma/exponentComparison.v
+Z91 FC:/Users/gilani/Documents/GitHub/fpfma/exponentComparison.v
+R8
 L0 1
-R10
+R9
 r1
 31
-Z92 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\exponentComparison.v|
-R12
-Z93 nexponent@comparison
-Z94 !s110 1373094131
-Z95 !s108 1373094131.451000
-Z96 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\exponentComparison.v|
+R10
+Z92 nexponent@comparison
+Z93 !s108 1373110196.452000
+Z94 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/exponentComparison.v|
+Z95 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/exponentComparison.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vfpfma
-Z97 I>fgkB3=maaGh27Hl4Z4[j2
-R4
-R5
-Z98 w1373094126
-Z99 8C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v
-Z100 FC:\Users\gilani\Documents\GitHub\fpfma\fpfma.v
-R9
-L0 1
-R10
-r1
-31
-R12
-Z101 !s110 1373094132
-Z102 !s100 zOlHXL]VYTHl8F>[@QJeT3
-Z103 !s108 1373094131.845000
-Z104 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v|
-Z105 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v|
+!s110 1373113719
 !i10b 1
+!s100 J[H43emBJJ[A^I`hk8Z>S3
+I^]OODNSo2:3R4g5hWQfH^0
+R3
+R4
+w1373113713
+8C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v
+FC:\Users\gilani\Documents\GitHub\fpfma\fpfma.v
+R8
+L0 1
+R9
+r1
 !s85 0
+31
+!s108 1373113719.685000
+!s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v|
+!s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\fpfma.v|
 !s101 -O0
+R10
 vfpSpecialCases
-R101
-Z106 !s100 <jKb<4OH1:7VbTAQ]D2NP0
-Z107 IC5fbJ@7ODFEHnYH<3DCJl1
+Z96 !s100 <jKb<4OH1:7VbTAQ]D2NP0
+Z97 I<Thb<KoWWOD>[kz;_iGob1
+R3
 R4
 R5
-R6
-Z108 8C:\Users\gilani\Documents\GitHub\fpfma\fpSpecialCases.v
-Z109 FC:\Users\gilani\Documents\GitHub\fpfma\fpSpecialCases.v
-R9
+Z98 8C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v
+Z99 FC:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v
+R8
 L0 2
-R10
+R9
 r1
 31
-Z110 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\fpSpecialCases.v|
-R12
-Z111 nfp@special@cases
-Z112 !s108 1373094132.791000
-Z113 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\fpSpecialCases.v|
+R10
+Z100 nfp@special@cases
+Z101 !s110 1373110197
+Z102 !s108 1373110197.499000
+Z103 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v|
+Z104 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/fpSpecialCases.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vfull_adder
-R48
-Z114 IEPJKWiQ;1:Vd>b`o1CDA[0
+R47
+Z105 IEPJKWiQ;1:Vd>b`o1CDA[0
+R3
 R4
-R5
 R17
+R49
 R50
-R51
-R9
+R8
 L0 1
-R10
+R9
 r1
 31
+R51
 R52
 R53
-R54
-R12
-Z115 !s100 Vk9BiTL=z8AO`Cjj;=]4A3
+R10
+Z106 !s100 Vk9BiTL=z8AO`Cjj;=]4A3
 !i10b 1
 !s85 0
 !s101 -O0
 vlza
-Z116 !s100 BNWJ33RXGbOSOJR@J1Ooz0
-Z117 I1<71MO^nM1nPzV4GzOBFc3
+R101
+Z107 !s100 BNWJ33RXGbOSOJR@J1Ooz0
+Z108 IA0P7j`YgJ5ijGkIe_i@^N2
+R3
 R4
 R5
-R6
-Z118 8C:\Users\gilani\Documents\GitHub\fpfma\lza.v
-Z119 FC:\Users\gilani\Documents\GitHub\fpfma\lza.v
-R9
+Z109 8C:/Users/gilani/Documents/GitHub/fpfma/lza.v
+Z110 FC:/Users/gilani/Documents/GitHub/fpfma/lza.v
+R8
 L0 2
-R10
+R9
 r1
 31
-Z120 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\lza.v|
-R12
-Z121 !s110 1373094133
-Z122 !s108 1373094133.328000
-Z123 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\lza.v|
+R10
+Z111 !s108 1373110197.884000
+Z112 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/lza.v|
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/lza.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmodifiedBoothRecoder
-Z124 IRLJ4hMC]CT^G]8@Do;F_n2
+Z114 IRLJ4hMC]CT^G]8@Do;F_n2
+R3
 R4
-R5
 R17
-Z125 8C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v
-Z126 FC:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v
-R9
+Z115 8C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v
+Z116 FC:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
-Z127 nmodified@booth@recoder
-Z128 !s110 1373042588
-Z129 !s100 mh>BhU:Jz=8aoaMJ[]h?93
-Z130 !s108 1373042588.040000
-Z131 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v|
-Z132 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v|
+R10
+Z117 nmodified@booth@recoder
+Z118 !s110 1373042588
+Z119 !s100 mh>BhU:Jz=8aoaMJ[]h?93
+Z120 !s108 1373042588.040000
+Z121 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v|
+Z122 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/modifiedBoothRecoder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vnormalizeAndExpUpdate
-Z133 I>9LKdZ9WSPaQFYb0;9[;m0
+Z123 !s100 LGb83VlPD_c]3lCS4Xj_L2
+Z124 Io@W1_JkGfI9RGA;VT2LE53
+R3
 R4
-R5
-Z134 w1373102758
-Z135 8C:\Users\gilani\Documents\GitHub\fpfma\normalize.v
-Z136 FC:\Users\gilani\Documents\GitHub\fpfma\normalize.v
-R9
+Z125 w1373102758
+Z126 8C:/Users/gilani/Documents/GitHub/fpfma/normalize.v
+Z127 FC:/Users/gilani/Documents/GitHub/fpfma/normalize.v
+R8
 L0 1
-R10
+R9
 r1
 31
-Z137 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\normalize.v|
-R12
-Z138 nnormalize@and@exp@update
-Z139 !s110 1373102761
-Z140 !s100 LGb83VlPD_c]3lCS4Xj_L2
-Z141 !s108 1373102761.604000
-Z142 !s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\normalize.v|
+R10
+Z128 nnormalize@and@exp@update
+Z129 !s110 1373110198
+Z130 !s108 1373110198.214000
+Z131 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/normalize.v|
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/normalize.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vsignificandMultiplier
-R128
-Z143 IoV:VO=A0k^jzK9^j=Y7I=3
+R118
+Z133 IoV:VO=A0k^jzK9^j=Y7I=3
+R3
 R4
-R5
 R17
-Z144 8C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v
-Z145 FC:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v
-R9
+Z134 8C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v
+Z135 FC:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
-Z146 nsignificand@multiplier
-Z147 !s100 Co?gH^jKiI@l7?M^j>;d73
-Z148 !s108 1373042588.682000
-Z149 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v|
-Z150 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v|
+R10
+Z136 nsignificand@multiplier
+Z137 !s100 Co?gH^jKiI@l7?M^j>;d73
+Z138 !s108 1373042588.682000
+Z139 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v|
+Z140 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/significandMultiplier.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_cla_adder
-Z151 IAJ_47En_o?LSD7k1ei^kK3
+Z141 IAJ_47En_o?LSD7k1ei^kK3
+R3
 R4
-R5
 R17
-Z152 8C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v
-Z153 FC:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v
-R9
+Z142 8C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v
+Z143 FC:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
-Z154 !s110 1373042589
-Z155 !s100 6X;A<EF2cLdo;@26GogY02
-Z156 !s108 1373042589.017000
-Z157 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v|
-Z158 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v|
+R10
+Z144 !s110 1373042589
+Z145 !s100 6X;A<EF2cLdo;@26GogY02
+Z146 !s108 1373042589.017000
+Z147 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v|
+Z148 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_cla_adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_compressor_3_2
-R154
-Z159 INDZm6<CAlf:;QlE=dRFH02
+R144
+Z149 INDZm6<CAlf:;QlE=dRFH02
+R3
 R4
-R5
-Z160 w1371221239
-Z161 8C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v
-Z162 FC:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v
+Z150 w1371221239
+Z151 8C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v
+Z152 FC:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v
 L0 1
-R10
+R9
 r1
 31
-R12
-Z163 !s100 0SMOQ`V_liPHOb0fKZ4Ce2
-Z164 !s108 1373042589.246000
-Z165 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v|
-Z166 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v|
+R10
+Z153 !s100 0SMOQ`V_liPHOb0fKZ4Ce2
+Z154 !s108 1373042589.246000
+Z155 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v|
+Z156 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_3_2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_compressor_4_2
-R154
-Z167 I?amQ>zFYmTI4hIAnS?1@N1
+R144
+Z157 I?amQ>zFYmTI4hIAnS?1@N1
+R3
 R4
-R5
-Z168 w1371246538
-Z169 8C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v
-Z170 FC:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v
+Z158 w1371246538
+Z159 8C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v
+Z160 FC:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v
 L0 2
-R10
+R9
 r1
 31
-R12
-Z171 !s100 UM`0C:[zEloR88zg?LR5=2
-Z172 !s108 1373042589.497000
-Z173 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v|
-Z174 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v|
+R10
+Z161 !s100 UM`0C:[zEloR88zg?LR5=2
+Z162 !s108 1373042589.497000
+Z163 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v|
+Z164 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_compressor_4_2.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_eac_cla_adder
-R154
-Z175 IMCKUAL7HoW1O0J[zKhGXf3
+R144
+Z165 IMCKUAL7HoW1O0J[zKhGXf3
+R3
 R4
-R5
 R17
-Z176 8C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v
-Z177 FC:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v
-R9
+Z166 8C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v
+Z167 FC:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v
+R8
 L0 2
-R10
+R9
 r1
 31
-R12
-Z178 !s100 =;o7WQeSH@MZEhWa[4e>Y1
-Z179 !s108 1373042589.747000
-Z180 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v|
-Z181 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v|
+R10
+Z168 !s100 =;o7WQeSH@MZEhWa[4e>Y1
+Z169 !s108 1373042589.747000
+Z170 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v|
+Z171 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_eac_cla_adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_fpfma
-!s110 1373103132
-!i10b 1
-!s100 ?Af>=<2l2jW@V>TO@ha^70
-IUDeEQ4:F]9<<`zf:4acQL1
+R129
+Z172 !s100 ?Af>=<2l2jW@V>TO@ha^70
+Z173 I6E9iM@[caF<PJ?NmO>8Z[0
+R3
 R4
-R5
-w1373103128
-Z182 8C:\Users\gilani\Documents\GitHub\fpfma\t_fpfma.v
-Z183 FC:\Users\gilani\Documents\GitHub\fpfma\t_fpfma.v
-R9
+Z174 w1373103128
+Z175 8C:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v
+Z176 FC:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v
+R8
 L0 1
-R10
+R9
 r1
+31
+R10
+!i10b 1
 !s85 0
-31
-!s108 1373103132.537000
-!s107 parameters.v|C:\Users\gilani\Documents\GitHub\fpfma\t_fpfma.v|
-Z184 !s90 -reportprogress|300|-work|work|C:\Users\gilani\Documents\GitHub\fpfma\t_fpfma.v|
+Z177 !s108 1373110198.677000
+Z178 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v|
+Z179 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_fpfma.v|
 !s101 -O0
-R12
 vt_lza
-Z185 !s110 1373042590
-Z186 IaCVS1IZjC;H4o9?;E9Q=o1
+Z180 !s110 1373042590
+Z181 IaCVS1IZjC;H4o9?;E9Q=o1
+R3
 R4
-R5
-Z187 w1372599390
-Z188 8C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v
-Z189 FC:/Users/gilani/Documents/GitHub/fpfma/t_lza.v
+Z182 w1372599390
+Z183 8C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v
+Z184 FC:/Users/gilani/Documents/GitHub/fpfma/t_lza.v
 L0 3
-R10
+R9
 r1
 31
-R12
-Z190 !s100 4h@mT=g9R8GfSR3D[8m=]3
-Z191 !s108 1373042590.237000
-Z192 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v|
-Z193 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v|
+R10
+Z185 !s100 4h@mT=g9R8GfSR3D[8m=]3
+Z186 !s108 1373042590.237000
+Z187 !s107 C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v|
+Z188 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_lza.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vt_significandMultiplier
-R185
-Z194 IH;L07bzjZVKdBE<KFm=Oo1
+R180
+Z189 IH;L07bzjZVKdBE<KFm=Oo1
+R3
 R4
-R5
 R17
-Z195 8C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v
-Z196 FC:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v
-R9
+Z190 8C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v
+Z191 FC:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v
+R8
 L0 1
-R10
+R9
 r1
 31
-R12
-Z197 nt_significand@multiplier
-Z198 !s100 U59fE4DIf:MM_Z@;5DjKz1
-Z199 !s108 1373042590.468000
-Z200 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v|
-Z201 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v|
+R10
+Z192 nt_significand@multiplier
+Z193 !s100 U59fE4DIf:MM_Z@;5DjKz1
+Z194 !s108 1373042590.468000
+Z195 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v|
+Z196 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/t_significandMultiplier.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vunpack
-Z202 !s100 g]kVZ5MGENKamEmg>6V@h1
-Z203 IgezMYEOn;oIH8X`UKMP[Z1
+Z197 !s100 g]kVZ5MGENKamEmg>6V@h1
+Z198 IgezMYEOn;oIH8X`UKMP[Z1
+R3
 R4
 R5
-R6
-Z204 8C:/Users/gilani/Documents/GitHub/fpfma/unpack.v
-Z205 FC:/Users/gilani/Documents/GitHub/fpfma/unpack.v
-R9
+Z199 8C:/Users/gilani/Documents/GitHub/fpfma/unpack.v
+Z200 FC:/Users/gilani/Documents/GitHub/fpfma/unpack.v
+R8
 L0 1
-R10
+R9
 r1
 31
-Z206 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/unpack.v|
-R12
-R1
-Z207 !s108 1373094128.132000
-Z208 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/unpack.v|
+Z201 !s90 -reportprogress|300|-work|work|C:/Users/gilani/Documents/GitHub/fpfma/unpack.v|
+R10
+Z202 !s110 1373110193
+Z203 !s108 1373110193.231000
+Z204 !s107 parameters.v|C:/Users/gilani/Documents/GitHub/fpfma/unpack.v|
 !i10b 1
 !s85 0
 !s101 -O0
