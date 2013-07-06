@@ -184,7 +184,7 @@ module fpfma(A, B, C, rnd, result);
   
   //Pack
   wire [WIDTH-1:0] result_pre;
-  assign result_pre = {res_sign,exp_update2,renormalized[SIG_WIDTH-1:0]}; //TODO: Fix sign
+  assign result_pre = {res_sign,exp_update2,renormalized[SIG_WIDTH-1:0]}; 
   
   //Select result (setResultNaN, setResultPInf, setResultNInf)
   always @ (*) begin
@@ -201,23 +201,4 @@ module fpfma(A, B, C, rnd, result);
               result = result_pre;
     endcase
   end
-  
-  
-  //******Testing code
-  wire [49:0] testSigProd = sum + (carry<<1);
-  reg [3*(SIG_WIDTH+1)+3:0] normalizedTest; //75:0
-  reg [SIG_WIDTH-1:0] testSigRes;
-
-  integer i,j;
-  always @ (*) begin
-    i=3*(SIG_WIDTH+1)+3;
-    j=0;
-    while(prenormalized[i]==0 && i>=0) begin
-       i=i-1;
-       j=j+1;
-    end
-    normalizedTest = (prenormalized<<j);
-    testSigRes = normalizedTest[74:52];
-  end
-  //*******
 endmodule
