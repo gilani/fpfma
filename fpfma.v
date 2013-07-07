@@ -1,4 +1,4 @@
-module fpfma(A, B, C, rnd, result);
+module fpfma(A, B, C, rnd, clk, rst, result);
 
   
   //Rounding modes (rnd)
@@ -11,7 +11,8 @@ module fpfma(A, B, C, rnd, result);
   
   //I/O decalarations
   input [WIDTH-1:0] A,B,C;
-  input [1:0] rnd;  
+  input [1:0] rnd;
+  input clk, rst;  
   output reg [WIDTH-1:0] result;
   
   //Special cases handling
