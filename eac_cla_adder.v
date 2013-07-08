@@ -45,8 +45,8 @@ module eac_cla_adder(in1, in2, cin, sticky, effectiveOperation, sum, cout );
   assign cout_group_g_p = gg_rotated[0] | (&gp_rotated[0]);
   generate
     //Now handle the generate-propagate comninition terms 
-    for(j=0;j<N_CLA_GROUPS;j=j+1) begin
-      for(k=0;k<N_CLA_GROUPS-1;k=k+1) begin
+    for(j=0;j<N_CLA_GROUPS;j=j+1) begin: gen1eaccla
+      for(k=0;k<N_CLA_GROUPS-1;k=k+1) begin: gen2eaccla
         assign cout_group_mix[j][k]=((&gp_rotated[j][k:0]) & gg_rotated[(j+1)%N_CLA_GROUPS][k]); 
       end
     end 
